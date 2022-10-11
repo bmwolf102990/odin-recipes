@@ -1,0 +1,30 @@
+body {
+    font-family: Helvetica;
+}
+li {
+    font-weight: bold;
+}
+
+p {
+    color:blue;
+}
+ul#index-recipe-links li {
+    font-size: 18px;
+}
+#baked-ziti-hdr {
+    font-family: monospace;
+}
+.back-link {
+    font-style: italic;
+}
+
+.top{
+    color: green;
+}
+.back-link.top {
+    margin: 500px;
+}
+
+.end {
+    color: purple;
+}
