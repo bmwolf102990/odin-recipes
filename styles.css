@@ -28,3 +28,7 @@ ul#index-recipe-links li {
 .end {
     color: purple;
 }
+
+.beef-peppers-index-link, .mango-salsa-index-link, .baked-ziti-index-link {
+    font-style: italic;
+}
